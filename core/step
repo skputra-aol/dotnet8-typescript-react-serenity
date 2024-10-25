@@ -3,3 +3,7 @@ git branch -M master
 git add -A
 git commit -m "first step"
 git push -u origin master
+
+npm i
+dotnet build
+dotnet run
