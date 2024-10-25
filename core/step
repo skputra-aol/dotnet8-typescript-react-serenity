@@ -1,1 +1,4 @@
-step instll
+git clone git@github.com:skputra-aol/dotnet8-typescript-react-serenity.git
+git branch -M master
+git commit -m "first step"
+git push -u origin master
